@@ -112,6 +112,15 @@ body {
       
     }
     
+    #listing {
+      
+      ul {
+        margin: 0 0 0 40px;
+        line-height: 1.5;
+      }
+      
+    }
+    
   }
 
   #gallery {
@@ -219,10 +228,11 @@ body {
     
   }
 
-  #contact {
-    div {
-      padding: 0 0 2000px;
-    }
-  }
+  #contact {}
 
+}
+
+#subliminal {
+  text-align: center;
+  margin: 2000px 0 40px 0;
 }
